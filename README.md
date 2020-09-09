@@ -2,5 +2,4 @@
  
 In this repository you can find the schematic of a small stereo amplifier suitable for small speakers like laptop's.
 
-!(image)[https://imgur.com/xk8SqYC]
-
+!['o' output](https://imgur.com/xk8SqYC)
